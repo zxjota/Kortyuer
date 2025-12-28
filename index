@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Kortyuer</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f8f9fa;
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        header {
+            text-align: center;
+            padding: 2rem 0;
+            border-bottom: 2px solid #eaeaea;
+            margin-bottom: 2rem;
+            background-color: white;
+            border-radius: 8px 8px 0 0;
+        }
+        
+        h1 {
+            color: #2c3e50;
+            font-size: 2.2rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .app-name {
+            color: #3498db;
+            font-weight: 700;
+        }
+        
+        .last-updated {
+            color: #7f8c8d;
+            font-size: 0.95rem;
+            font-style: italic;
+        }
+        
+        .content {
+            background-color: white;
+            padding: 2.5rem;
+            border-radius: 0 0 8px 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        }
+        
+        h2 {
+            color: #2c3e50;
+            margin: 2rem 0 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 1px solid #ecf0f1;
+        }
+        
+        h2:first-of-type {
+            margin-top: 0;
+        }
+        
+        p {
+            margin-bottom: 1.2rem;
+        }
+        
+        ul, ol {
+            margin-left: 1.5rem;
+            margin-bottom: 1.5rem;
+        }
+        
+        li {
+            margin-bottom: 0.6rem;
+        }
+        
+        .important-note {
+            background-color: #f8f9fa;
+            border-left: 4px solid #3498db;
+            padding: 1.2rem;
+            margin: 1.5rem 0;
+            border-radius: 0 4px 4px 0;
+        }
+        
+        .contact-section {
+            background-color: #f0f7ff;
+            padding: 1.5rem;
+            border-radius: 6px;
+            margin-top: 2rem;
+        }
+        
+        .contact-title {
+            color: #2c3e50;
+            margin-bottom: 0.8rem;
+        }
+        
+        .email {
+            font-weight: 600;
+            color: #2c3e50;
+        }
+        
+        footer {
+            text-align: center;
+            margin-top: 3rem;
+            padding-top: 1.5rem;
+            border-top: 1px solid #ecf0f1;
+            color: #7f8c8d;
+            font-size: 0.9rem;
+        }
+        
+        .section-title {
+            display: flex;
+            align-items: center;
+            margin-bottom: 0.5rem;
+        }
+        
+        .section-number {
+            background-color: #3498db;
+            color: white;
+            width: 28px;
+            height: 28px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-right: 10px;
+            font-size: 0.9rem;
+        }
+        
+        @media (max-width: 768px) {
+            .container {
+                padding: 10px;
+            }
+            
+            .content {
+                padding: 1.5rem;
+            }
+            
+            h1 {
+                font-size: 1.8rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Privacy Policy for <span class="app-name">Kortyuer</span></h1>
+            <p class="last-updated">Last Updated: <span id="current-date">October 26, 2023</span></p>
+        </header>
+        
+        <div class="content">
+            <div class="important-note">
+                <p><strong>Note:</strong> This Privacy Policy describes how Kortyuer ("we", "our", or "us") collects, uses, and discloses your information when you use our application. By using Kortyuer, you agree to the collection and use of information in accordance with this policy.</p>
+            </div>
+            
+            <div class="section-title">
+                <div class="section-number">1</div>
+                <h2>Information We Collect</h2>
+            </div>
+            <p>Kortyuer collects the following types of information to provide and improve our services:</p>
+            
+            <h3>Personal Information</h3>
+            <p>When you use Kortyuer, you may provide us with certain personally identifiable information, including but not limited to:</p>
+            <ul>
+                <li>Email address (if you choose to create an account)</li>
+                <li>Pet information (names, breeds, birth dates, etc.)</li>
+                <li>Photos of your pets</li>
+                <li>Health records and veterinary information</li>
+            </ul>
+            
+            <h3>Usage Data</h3>
+            <p>We may also collect information on how the app is accessed and used ("Usage Data"). This may include:</p>
+            <ul>
+                <li>Device type and operating system</li>
+                <li>App features you use and frequency of use</li>
+                <li>Crash reports and performance data</li>
+                <li>IP address (anonymized for analytics)</li>
+            </ul>
+            
+            <div class="section-title">
+                <div class="section-number">2</div>
+                <h2>How We Use Your Information</h2>
+            </div>
+            <p>Kortyuer uses the collected data for the following purposes:</p>
+            <ul>
+                <li>To provide and maintain our pet management services</li>
+                <li>To allow you to manage your pets' profiles, health records, and appointments</li>
+                <li>To enable expense tracking and feeding schedule features</li>
+                <li>To store and organize your pet photos locally on your device</li>
+                <li>To improve and optimize the app's performance and user experience</li>
+                <li>To detect, prevent, and address technical issues</li>
+                <li>To provide customer support</li>
+            </ul>
+            
+            <div class="section-title">
+                <div class="section-number">3</div>
+                <h2>Data Storage and Security</h2>
+            </div>
+            <p><strong>Local Data Storage:</strong> Most of your pet-related data (profiles, photos, health records, etc.) is stored locally on your device. This information remains under your control and is not automatically transmitted to our servers.</p>
+            
+            <p><strong>Data Security:</strong> We implement appropriate technical and organizational measures to protect your information. However, no method of electronic storage is 100% secure, and we cannot guarantee absolute security.</p>
+            
+            <p><strong>Account Data:</strong> If you choose to create an account, your email and account information are stored securely on our servers to enable synchronization across devices (if this feature is available).</p>
+            
+            <div class="section-title">
+                <div class="section-number">4</div>
+                <h2>Third-Party Services</h2>
+            </div>
+            <p>Kortyuer may use third-party services for specific functions:</p>
+            <ul>
+                <li><strong>Analytics:</strong> We may use anonymous analytics to understand how the app is used and improve its functionality.</li>
+                <li><strong>Crash Reporting:</strong> We may use services to collect crash reports to fix bugs and improve stability.</li>
+            </ul>
+            <p>These third parties have access to your information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.</p>
+            
+            <div class="section-title">
+                <div class="section-number">5</div>
+                <h2>Your Data Rights</h2>
+            </div>
+            <p>You have the following rights regarding your data:</p>
+            <ul>
+                <li><strong>Access:</strong> You can access all the data you've entered in the app at any time.</li>
+                <li><strong>Correction:</strong> You can edit or correct your pet information at any time.</li>
+                <li><strong>Deletion:</strong> You can delete pet profiles, records, or your entire account data.</li>
+                <li><strong>Export:</strong> You can export your pet data in a readable format (if this feature is available in the app).</li>
+            </ul>
+            
+            <div class="section-title">
+                <div class="section-number">6</div>
+                <h2>Children's Privacy</h2>
+            </div>
+            <p>Kortyuer is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us so we can take appropriate action.</p>
+            
+            <div class="section-title">
+                <div class="section-number">7</div>
+                <h2>Changes to This Privacy Policy</h2>
+            </div>
+            <p>We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date.</p>
+            <p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p>
+            
+            <div class="contact-section">
+                <h3 class="contact-title">Contact Us</h3>
+                <p>If you have any questions or concerns about this Privacy Policy, please contact us at:</p>
+                <p class="email">sales.ahmed00@gmail.com</p>
+                <p>Please include "Kortyuer Privacy Policy Inquiry" in the subject line for a quicker response.</p>
+            </div>
+            
+            <footer>
+                <p>&copy; <span id="current-year">2023</span> Kortyuer. All rights reserved.</p>
+            </footer>
+        </div>
+    </div>
+    
+    <script>
+        // Update current date
+        const currentDate = new Date().toLocaleDateString('en-US', {
+            year: 'numeric',
+            month: 'long',
+            day: 'numeric'
+        });
+        document.getElementById('current-date').textContent = currentDate;
+        
+        // Update current year
+        document.getElementById('current-year').textContent = new Date().getFullYear();
+        
+        // Add smooth scrolling for better navigation
+        document.querySelectorAll('h2').forEach(heading => {
+            heading.style.cursor = 'pointer';
+            heading.addEventListener('click', function() {
+                this.scrollIntoView({ behavior: 'smooth' });
+            });
+        });
+    </script>
+</body>
+</html>
